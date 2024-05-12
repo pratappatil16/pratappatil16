@@ -1,5 +1,5 @@
 <marquee><h1 align="center">Hi , I'm Pratap, a programmer and  student.</h1></marquee>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratappatil16&label=Profile%20views&color=0e75b6&style=flat" alt="aastha200" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratappatil16&label=Profile%20views&color=0e75b6&style=flat" alt="ppratappatil16" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratappatil16" alt="pratappatil16" /></a> </p>
 
 
